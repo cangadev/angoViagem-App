@@ -1,5 +1,5 @@
 # angoViagem-App
-Academia DLine-code
+
 Angoviagem é um projecto criado por estudantes da Academia Dline-code que visa facilitar a deslocação interprovincial e exposição dos pontos turísticos existentes em todas províncias do nosso país. <br><br>
 
 AngoViagens abrange três entidades em fase inicial: Normal-users, manager-agence, Adm-geral.<br>
