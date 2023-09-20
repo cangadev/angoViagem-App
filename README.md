@@ -28,7 +28,7 @@ Gerir rotas<br>
 Gerir agendas de viagens<br>
 <br>
 Academia Dline-code<br>
-Feito por: Delton António e Henrique Catraio<br>
+Feito por: Delton António e Luis Frederico<br>
 Formador: Lúcio José<br>
 Módulo: Html – css<br>
 Classificação final: 70%
